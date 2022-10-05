@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/ReginaGyimesi/CodeToGive2022_Frontend
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/vantoan19/CodeToGive2022_Backend.git
