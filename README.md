@@ -2,7 +2,7 @@
 
 Submission for **Code To Give 2022**
 
-A Web Application helps create tests for disable people to find their job, and helps Salva Vita automate their work flows
+A Web Application that helps creating tests for disabled people to find their best career match, and Salva Vita to automate their otherwise paper based tasks.
 
 ## Tech Stacks:
 
